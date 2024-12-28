@@ -333,7 +333,7 @@
   icon: { sprite: _Goobstation/Changeling/changeling_abilities.rsi, state: hivemind_access }
   productAction: ActionHivemindAccess
   cost:
-    EvolutionPoint: 4
+    EvolutionPoint: 0
   categories:
   - ChangelingAbilityUtility
   conditions:
